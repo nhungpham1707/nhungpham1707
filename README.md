@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
- ✨ Welcome to my home ✨ 
+ ✨ **Welcome to my home** ✨ 
 
 I'm a computational biologist. My interest lies in the use of computational approaches in studying living organism. 
 I have a weird combination of work experience because I'm curious about almost everything.
@@ -12,7 +12,7 @@ I have a weird combination of work experience because I'm curious about almost e
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,bash,git,github,gitlab,latex,linux,matlab,py,r,sublime,ubuntu,vscode)](https://skillicons.dev)
 
-- To not feel guilty while procastinating, I make figures. Below is one of my most proud masterpieces
+- To not feel guilty while procastinating, I make figures. Below is one of my most proud masterpieces. I have made a lot of them ......
   
 
   <p>
