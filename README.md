@@ -11,3 +11,13 @@ I have a weird combination of work experience because I'm curious about almost e
 -  🔭 🌱 I’m currently learning how epigenomics affect cancer development in children 
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,bash,git,github,gitlab,latex,linux,matlab,py,r,sublime,ubuntu,vscode)](https://skillicons.dev)
+
+- Beside coding, I also like to make figures. Below are my most proud masterpieces
+  
+
+  <p>
+<img src="https://github.com/nhungpham1707/nhungpham1707/blob/main/3networks.png" width="600" height="700" alt>
+</p>
+<p>
+    <em>The 3 networks of life<em>.
+        </p>
