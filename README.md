@@ -16,7 +16,7 @@ I have a weird combination of work experience because I'm curious about almost e
   
 
   <p>
-<img src="https://github.com/nhungpham1707/nhungpham1707/blob/main/3networks.png" width="400" height="500" alt>
+<img src="https://github.com/nhungpham1707/nhungpham1707/blob/main/3networks.png" alt>
 </p>
 <p>
     <em>The 3 networks of life<em>.
