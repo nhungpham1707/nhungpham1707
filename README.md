@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 
-**nhungpham1707/nhungpham1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ Welcome to my home ✨ 
 
-Here are some ideas to get you started:
-
+I'm a computational biologist. My interest lie in the use of computational approaches in studying living organism. 
+I have worked with various topic from yeast metabolism to pediatric oncology.  
 - 🔭 I’m currently working on children cancer at the Princess Maxima Center for Pediatric oncology
 - 🌱 I’m currently learning how epigenomics affect cancer development 
 
