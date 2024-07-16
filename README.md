@@ -12,11 +12,11 @@ I have a weird combination of work experience because I'm curious about almost e
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,bash,git,github,gitlab,latex,linux,matlab,py,r,sublime,ubuntu,vscode)](https://skillicons.dev)
 
-- Beside coding, I also like to make figures. Below are my most proud masterpieces
+- Beside coding, I also like to make figures. Below are one of my most proud masterpieces
   
 
   <p>
-<img src="https://github.com/nhungpham1707/nhungpham1707/blob/main/3networks.png" alt>
+<img src="https://github.com/nhungpham1707/nhungpham1707/blob/main/3networks.png" width="400" height="400" alt>
 </p>
 <p>
     <em>The 3 networks of life<em>.
