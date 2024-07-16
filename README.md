@@ -2,7 +2,9 @@
 
 
  ✨ **Welcome to my home** ✨ 
+ 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,bash,git,github,gitlab,latex,linux,matlab,py,r,sublime,ubuntu,vscode)](https://skillicons.dev)
+
 I'm a computational biologist. My interest lies in the use of computational approaches in studying living organism. 
 I have a weird combination of work experience because I'm curious about almost everything.
 
