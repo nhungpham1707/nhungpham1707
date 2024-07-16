@@ -12,7 +12,7 @@ I have a weird combination of work experience because I'm curious about almost e
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,bash,git,github,gitlab,latex,linux,matlab,py,r,sublime,ubuntu,vscode)](https://skillicons.dev)
 
-- Beside coding, I also like to make figures. Below are one of my most proud masterpieces
+- To not feel guilty while procastinating, I make figures. Below is one of my most proud masterpieces
   
 
   <p>
