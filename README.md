@@ -12,8 +12,9 @@ I have a weird combination of work experience because I'm curious about almost e
 - Among all the technical skills, i have spent more time with: constraint-based modelling, network analysis, and NGS data analysis.  
 -  🔭 🌱 I’m currently learning how epigenomics affect cancer development in children 
 
-- To not feel guilty while procastinating, I make figures. Below is one of my most proud masterpieces.
-  I have made a lot of them ......
+- To not feel guilty while procastinating, I make figures. I have made a lot of them ......
+  Below is one of my most proud masterpieces.
+  
   
 
   <p>
